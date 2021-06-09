@@ -1,0 +1,17 @@
+﻿body {
+    background-color:#000;
+    border-bottom:solid;
+    border-bottom-width:1px;
+    border-bottom-color:#fff;
+    margin-bottom:5%;
+}
+.form {
+    position: relative;
+    width: 100%;
+    padding: 10% 40%;
+}
+form {
+    background-color: #454441;
+    padding:5%;
+    border-radius:5%;
+}

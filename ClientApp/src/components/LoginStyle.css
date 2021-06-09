@@ -1,0 +1,9 @@
+﻿body {
+    height:100%;
+    color:white;
+}
+form {
+    background-color: #454441;
+    padding: 5%;
+    border-radius: 5%;
+}

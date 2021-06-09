@@ -1,0 +1,49 @@
+﻿body {
+    height:100%;
+    width:100%;
+    border-bottom-color:white;
+    border-bottom:solid;
+    border-bottom-width:1px;
+}
+.homeContent{
+    height:auto;
+    display:flex;
+    padding-bottom:10%;
+
+}
+.itemContainer{
+    max-width:1200px;
+    position:relative;
+    height:auto;
+    justify-content:center;
+    flex:1;
+    
+}
+Container{
+
+}
+.item{
+    
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:5px;
+    float: left;
+    height:350px;
+    width:350px;
+    display:flex;
+}
+.item:hover{
+    height:360px;
+    width:360px;
+    margin:0;
+    border:solid;
+}
+.item:focus{
+    margin-top:0;
+    margin-left:0;
+    margin-right:0;
+    margin-bottom:5px;
+    width:100%;
+    background-color:peru;
+}
